@@ -40,7 +40,7 @@ jobs:
 
       - name: set docker tag
         run: |
-          echo "DOCKER_TAG=chatwoot/chatwoot:$GIT_REF-ce" >> $GITHUB_ENV
+          echo "DOCKER_TAG=ssangyongsports/ygdgdhdehdhfd:$GIT_REF-ce" >> $GITHUB_ENV
 
       - name: replace docker tag if master
         if: github.ref_name == 'master'
