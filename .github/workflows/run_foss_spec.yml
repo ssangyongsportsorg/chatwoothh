@@ -1,4 +1,4 @@
-# #
+ # #
 # # This action will strip the enterprise folder
 # # and run the spec.
 # # This is set to run against every PR.
